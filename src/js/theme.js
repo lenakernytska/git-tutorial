@@ -1,0 +1,1 @@
+const key= document.querySelector('.gallery')
